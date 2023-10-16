@@ -15,5 +15,5 @@ public:
 	ACSSGameMode();
 };
 
-
-
+// need add some logic properties & variables
+ 
